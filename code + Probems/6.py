@@ -1,3 +1,4 @@
+#function defination
 def minion_game(string):
     s = string
 
